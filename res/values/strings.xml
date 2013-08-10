@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Runnable - danielme.com</string>
+    <string name="title">Error</string>
+    <string name="error">No se ha podido obtener la imagen :(</string>
+    <string name="ok">OK</string>
+</resources>
